@@ -1,6 +1,6 @@
 # LIF Neuron Simulation
 
-This repository consists of simulations of a **Leaky Integrate-and-Fire (LIF) neuron model** using Python. The code explores the neuron's spiking behavior under both deterministic and noisy inputs and is implemented in google colab.
+This repository consists of simulations of a **Leaky Integrate-and-Fire (LIF) neuron model** using Python. This project was developed as part of my early exploration into computational neuroscience and the code explores the neuron's spiking behavior under both deterministic and noisy inputs.
 
 ## Contents
 - Definition of LIF neuron dynamics
